@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaboration.<br>🌱 I’m currently learning Java Script<br>🌃 Nyctophile <br>
+👋 Hi, I'm Armaan, a Computer Science Engineering student passionate about Frontend Development and crafting websites! <br>
+
+🖥️ Currently pursuing my BTech in CSE, I love bringing ideas to life through clean and intuitive user interfaces. I've designed several websites and enjoy the challenge of blending design with functionality. <br>
+
+💡 As part of Delta Developers, I've participated in hackathons, where we push boundaries and innovate together. I'm always learning through workshops and staying updated on the latest trends in web development. <br>
+
+🤝 I've also taken on the role of event coordinator, organizing various events for teams and participants. <br>
+
+🌱 Outside of coding, you can find me exploring new hobbies and adventures.  <br>
 
 
 ## 🌐 Socials:
