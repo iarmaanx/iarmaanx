@@ -1,4 +1,4 @@
-# 💫 Armaan Singh:
+#  Armaan Singh
 👋 Hi, I'm Armaan, a Computer Science Engineering student passionate about Frontend Development and crafting websites! <br>
 
 🖥️ Currently pursuing my BTech in CSE, I love bringing ideas to life through clean and intuitive user interfaces. I've designed several websites and enjoy the challenge of blending design with functionality. <br>
