@@ -1,11 +1,11 @@
 <a href="https://rishavchanda.io">
-  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" height="=70px">
+  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" height="=50">
 </a>
 
 <h1 align="center">Hi 👋, I'm Armaan</h1>
 <h4 align="center">Web Developer | Team Lead @Delta Developers</h4>
 <br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" target="https://sites.google.com/view/armaansingh">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iarmaansingh&label=Profile%20views&color=0e75b6&style=flat" alt="iarmaansingh" /> </p>
 
