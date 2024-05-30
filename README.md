@@ -11,9 +11,9 @@
 
 - 💻 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 My Portfolio Website [https://sites.google.com/view/armaansingh](https://sites.google.com/view/armaansingh)
+- 👨‍💻 My Personal Website [https://sites.google.com/view/armaansingh](https://sites.google.com/view/armaansingh)
 
-- 📫 How to reach me **thearmaandeep@gmail.com**
+- 📫 Drop me a mail **thearmaandeep@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
