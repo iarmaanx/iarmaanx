@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/iarmaanx/">
-  <img src="images/banner.png" alt="MasterHead" height="=50">
+  <img src="images/banner.png" alt="MasterHead" height="auto" width="100%">
 </a>
 
 <div align="center"> 
@@ -18,13 +18,9 @@ Open Source Contributor 💻<br>
 
 
 
-### Socials:
-<a href="https://code-better.hashnode.dev/">CodeBetter</a>
-<a href="https://www.linkedin.com/in/iarmaanx/">Instagram</a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iarmaanx) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iarmaanx) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codebetteryt) 
 
 
-
-
+- [![CodeBetter Blog](https://img.shields.io/badge/Hashnode-%232962FF.svg?logo=hashnode&logoColor=white)](https://code-better.hashnode.dev/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iarmaanx/)
+- [![X (Twitter)](https://img.shields.io/badge/X-%2312100E.svg?logo=X&logoColor=white)](https://x.com/iarmaanx)
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codebetteryt)
