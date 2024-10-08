@@ -14,7 +14,7 @@ Technical Development Lead @ Tech Hood Agra <br>
 Google Cloud Arcade'24 <br>
 Writer @CodeBetter <br>
 Team Lead @ Delta Developers 🚀 <br>
-Open Source Contributor 💻<br>
+Open Source Contributor 💻 @GSSoC @Hacktoberfest <br>
 
 
 
