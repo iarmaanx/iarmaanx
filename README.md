@@ -8,13 +8,12 @@
   </h1>
 </div>
 
----
+
 
 # Hi, I'm Armaan Singh 👋  
 
-**🚀 Web Developer | Tech Enthusiast | Open Source Contributor**  
+### 🚀 Web Developer | Tech Enthusiast | Open Source Contributor**  
 
----
 
 ## 🌟 About Me  
 
