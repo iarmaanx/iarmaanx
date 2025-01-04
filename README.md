@@ -12,8 +12,9 @@
 
 # Hi, I'm Armaan Singh 👋  
 
-### 🚀 Web Developer | Tech Enthusiast | Open Source Contributor**  
+🚀 Web Developer | Tech Enthusiast | Open Source Contributor 
 
+<br>
 
 ## 🌟 About Me  
 
@@ -22,7 +23,9 @@ Hi there! I'm **Armaan Singh**, a B.Tech Computer Science student with a passion
 - 🎓 **Education**: Pursuing B.Tech in CSE (Graduating in 2027)  
 - 💻 **Interests**: Web Development, UI/UX Design, System Architecture, Open Source  
 
----
+
+<br>
+
 
 ## 🏆 Achievements  
 - **Top LinkedIn Voice** (x2)  
@@ -33,31 +36,23 @@ Hi there! I'm **Armaan Singh**, a B.Tech Computer Science student with a passion
 - Ex - **Technical Development Lead** @ Tech Hood Agra  
 - Open Source Contributor @ **Hacktoberfest** | **GSSoC**  
 
----
 
-## 💼 My Skills  
-- **Web Development**: React, JavaScript, Tailwind CSS  
-- **UI/UX Design**: Clean and intuitive interfaces  
-- **System Workflow Design**  
-- **Feature Development**  
-- **Project Timeline Scheduling**  
-- **Team Management**  
-- **Technical Content Writing**  
-- **Deployment Management**  
 
----
+
+<br>
 
 ## 🌐 My Projects  
 Explore my work [here](https://sites.google.com/view/armaansingh/projects).  
 
----
+<br>
 
 ## 🔄 What I'm Currently Doing  
 - 🌟 Contributing to **open source** and exploring new tech stacks  
 - 🚀 Leading projects and mentoring team members @ Delta Developers  
 - 📚 Enhancing skills in web development and UI/UX  
 
----
+
+<br>
 
 ## ✨ Let's Connect  
 📧 **Email**: [thearmaandeep@gmail.com](mailto:thearmaandeep@gmail.com)  
