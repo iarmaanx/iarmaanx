@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/iarmaanx/">
-  <img src="images/banner1.png" alt="MasterHead" width="100%">
+  <img src="images/banner-new.jpeg" alt="MasterHead" width="100%">
 </a>
 
 <div align="center"> 
